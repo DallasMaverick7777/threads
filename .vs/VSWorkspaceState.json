@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\(auth)",
+    "\\app\\(auth)\\sign-in",
+    "\\app\\(auth)\\sign-up",
+    "\\app\\(root)",
+    "\\components",
+    "\\components\\shared"
+  ],
+  "SelectedNode": "\\components\\shared\\Topbar.tsx",
+  "PreviewInSolutionExplorer": false
+}
